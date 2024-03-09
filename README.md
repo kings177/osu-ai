@@ -1,2 +1,4 @@
 # osu-ai
-Osu Auto player :) (not cheating btw)
+Neural Network that auto-plays Osu!
+
+Soon...
