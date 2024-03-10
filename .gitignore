@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+osu-ai-env/
 
 # Spyder project settings
 .spyderproject
