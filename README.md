@@ -1,5 +1,5 @@
 # osu-ai
-Neural Network that auto-plays Osu!
+Neural Network that plays Osu!
 
 Soon...
 
